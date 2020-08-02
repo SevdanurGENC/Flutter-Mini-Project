@@ -13,7 +13,7 @@ There are the codes we wrote in the 1st Session of the GDG Kastamonu event with 
 
 ### RegisterPage :
 
-![Screenshot_7](https://user-images.githubusercontent.com/13748518/88978398-4f109380-d2c8-11ea-966b-cd1c71296187.png)
+![image](https://user-images.githubusercontent.com/5441882/89126890-2835a580-d4f2-11ea-9d62-ae1e6e1222ec.png)
 
 ### HomePage :
 
