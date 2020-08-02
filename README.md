@@ -17,8 +17,8 @@ There are the codes we wrote in the 1st Session of the GDG Kastamonu event with 
 
 ### HomePage :
 
-![Screenshot_5](https://user-images.githubusercontent.com/13748518/88978403-520b8400-d2c8-11ea-9b68-8f4ce8fd83cc.png)
+![image](https://user-images.githubusercontent.com/5441882/89126900-44d1dd80-d4f2-11ea-9145-642614a656c6.png)
 
 ### DrawerPage :
 
-![Screenshot_4](https://user-images.githubusercontent.com/13748518/88978408-546dde00-d2c8-11ea-8048-116ce286ee8a.png)
+![image](https://user-images.githubusercontent.com/5441882/89126914-5c10cb00-d4f2-11ea-93e1-b96b4dbf7dce.png)
