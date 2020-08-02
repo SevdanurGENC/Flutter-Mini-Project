@@ -9,7 +9,7 @@ There are the codes we wrote in the 1st Session of the GDG Kastamonu event with 
 
 ### LoginPage :
 
-![Screenshot_6](https://user-images.githubusercontent.com/13748518/88978383-49b34900-d2c8-11ea-953d-95ae5c682ae1.png)
+![image](https://user-images.githubusercontent.com/5441882/89126842-bf4e2d80-d4f1-11ea-8118-c4f0cdb4d5b4.png)
 
 ### RegisterPage :
 
