@@ -7,7 +7,7 @@ In this project, there is an example of how to use the codes about home page, re
 There are the codes we wrote in the 1st Session of the GDG Kastamonu event with Flutter.
  
 
-# LoginPage :
+### LoginPage :
 
 ![Screenshot_6](https://user-images.githubusercontent.com/13748518/88978383-49b34900-d2c8-11ea-953d-95ae5c682ae1.png)
 
